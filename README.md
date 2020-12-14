@@ -11,3 +11,4 @@ Desafio proposto neste [link](https://50projects50days.com/)
 | 03  | [Rotating Navigation Animation](https://github.com/BrunoSaibert/50projects50days/tree/master/03-rotating-navigation-animation) |
 | 04  | [Hidden Search Widget](https://github.com/BrunoSaibert/50projects50days/tree/master/04-hidden-search-widget)                   |
 | 05  | [Blurry Loading](https://github.com/BrunoSaibert/50projects50days/tree/master/05-blurry-loading)                               |
+| 06  | [Scroll Animation](https://github.com/BrunoSaibert/50projects50days/tree/master/06-scroll-animation)                           |
